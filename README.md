@@ -22,4 +22,4 @@ This project uses the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Author
 
-Created by [Your Name]
+Created by DianaB
